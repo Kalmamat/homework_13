@@ -1,21 +1,21 @@
 # Assalamu aleikum everybody my name is Kalmamat 
 > About me
-##Mazhiev Kalmamat Abarbekovich
-####Date of birth: june 29, 1995
-####Address: Russia, Zab.kray, Chita 
-####Phone +7(996)0215471
-####E-mail: mazhievk@bk.ru
+## Mazhiev Kalmamat Abarbekovich
+#### Date of birth: june 29, 1995
+#### Address: Russia, Zab.kray, Chita 
+#### Phone +7(996)0215471
+#### E-mail: mazhievk@bk.ru
 
-#####Goal: to apply for a job as a programmer.
+##### Goal: to apply for a job as a programmer.
 
-#####Expected s/p: from $ 5000.
+##### Expected s/p: from $ 5000.
 
->Education:
-###Address: United Kingdom, Cambridgeshire County, Cambridge, Castle (2014-2018)
->Work experience:
-###NEVIS ITDB tech (2021)
+> Education:
+### Address: United Kingdom, Cambridgeshire County, Cambridge, Castle (2014-2018)
+> Work experience:
+### NEVIS ITDB tech (2021)
 * the creation of software products in the languages HTML
->Personal qualities:
+> Personal qualities:
 * love for your work;
 * integrity;
 * creative abilities;
